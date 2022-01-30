@@ -1,48 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
+import NavBar from './Components/NavBar';
+import Header from './Components/Header';
+import Footer from './Components/Footer';
 
 function App() {
-  console.log('rendering app');
   return (
     <div>
-
-      <nav className="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
-        <div className="container">
-          <a className="navbar-brand" href="#page-top"><img src="assets/img/navbar-logo.svg" alt="..." /></a>
-          <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive"
-            aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-            Menu
-            <i className="fas fa-bars ms-1"></i>
-          </button>
-          <div className="collapse navbar-collapse" id="navbarResponsive">
-            <ul className="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
-              <li className="nav-item"><a className="nav-link" href="#services">Home</a></li>
-              <li className="nav-item"><a className="nav-link" href="#portfolio">Jobs</a></li>
-              <li className="nav-item"><a className="nav-link" href="#about">About Us</a></li>
-              <li className="nav-item"><a className="nav-link" href="#team">Work With Us</a></li>
-              <li className="nav-item"><a className="nav-link" href="#contact">Contact Us</a></li>
-              <li className="nav-item"><a className="nav-link" href="#contact">Submit a CV</a></li>
-            </ul>
-          </div>
-        </div>
-      </nav>
-      {/* <!-- Masthead--> */}
-      <header className="masthead">
-        <div className="container">
-          {/* <!-- <div className="masthead-subheading">Welcome To Our Studio!</div> --> */}
-          <div className="masthead-heading text-uppercase">Find a <span className="text-primary">role</span> and get
-            innovating</div>
-          <div className="row">
-            <div className="col" style={{ position: 'relative' }}>
-              <input className="form-control form-control-lg" id="jobsearch" type="text"
-                placeholder="Job, Title or Keyword" />
-              <button className="btn btn-primary btn-lg"
-                style={{ position: 'absolute', top: 0, right: 12, height: '100%', width: 80, fontSize: '2rem' }}
-                id="submitButton" type="submit"><i className="bi bi-search"></i></button>
-            </div>
-          </div>
-        </div>
-      </header>
+      <NavBar />
+      <Header />
       {/* <!-- Services--> */}
       <section className="page-section" id="services">
         <div className="container">
@@ -408,23 +373,7 @@ function App() {
           </form>
         </div>
       </section>
-      {/* <!-- Footer--> */}
-      <footer className="footer py-4">
-        <div className="container">
-          <div className="row align-items-center">
-            <div className="col-lg-4 text-lg-start">Copyright &copy; Your Website 2021</div>
-            <div className="col-lg-4 my-3 my-lg-0">
-              <a className="btn btn-dark btn-social mx-2" href="#!"><i className="fab fa-twitter"></i></a>
-              <a className="btn btn-dark btn-social mx-2" href="#!"><i className="fab fa-facebook-f"></i></a>
-              <a className="btn btn-dark btn-social mx-2" href="#!"><i className="fab fa-linkedin-in"></i></a>
-            </div>
-            <div className="col-lg-4 text-lg-end">
-              <a className="link-dark text-decoration-none me-3" href="#!">Privacy Policy</a>
-              <a className="link-dark text-decoration-none" href="#!">Terms of Use</a>
-            </div>
-          </div>
-        </div>
-      </footer>
+      <Footer />
       {/* <!-- Portfolio Modals--> */}
       {/* <!-- Portfolio item 1 modal popup--> */}
       <div className="portfolio-modal modal fade" id="portfolioModal1" tabIndex={-1} role="dialog" aria-hidden="true">
