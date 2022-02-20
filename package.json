@@ -1,5 +1,6 @@
 {
   "name": "square-search-react",
+  "homepage": "http://squaresearch.co.uk",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
