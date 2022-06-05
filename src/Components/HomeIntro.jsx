@@ -1,11 +1,11 @@
 
 import React from 'react';
-
+import './HomeIntro.scss'
 
 
 const HomeIntro = () => {
   return (
-    <section className="page-section bg-light" id="portfolio">
+    <section className="page-section bg-light" id="home-intro">
       <div className="container">
         <div className="text-center">
           <h2 className="section-heading text-uppercase">What is Square Search<span className="text-danger">?</span></h2>

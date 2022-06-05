@@ -12,12 +12,12 @@ const NavBar = () => {
                 </button>
                 <div className="collapse navbar-collapse" id="navbarResponsive">
                     <ul className="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
-                        <li className="nav-item"><a className="nav-link" href="#services">Home</a></li>
-                        <li className="nav-item"><a className="nav-link" href="#portfolio">Jobs</a></li>
-                        <li className="nav-item"><a className="nav-link" href="#about">About Us</a></li>
-                        <li className="nav-item"><a className="nav-link" href="#team">Work With Us</a></li>
+                        <li className="nav-item"><a className="nav-link" href="#header">Home</a></li>
+                        <li className="nav-item"><a className="nav-link" href="#">Jobs</a></li>
+                        <li className="nav-item"><a className="nav-link" href="#home-intro">About Us</a></li>
+                        <li className="nav-item"><a className="nav-link" href="#">Work With Us</a></li>
                         <li className="nav-item"><a className="nav-link" href="#contact">Contact Us</a></li>
-                        <li className="nav-item"><a className="nav-link" href="#contact">Submit a CV</a></li>
+                        <li className="nav-item"><a className="nav-link" href="#">Submit a CV</a></li>
                     </ul>
                 </div>
             </div>

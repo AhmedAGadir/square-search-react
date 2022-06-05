@@ -1,0 +1,60 @@
+.masthead {
+    
+    &.searching {
+        .search-container {
+            input {
+                border-bottom-left-radius: 0;
+                border-bottom-right-radius: 0;
+            }
+            .filtered-jobs.list-group .list-group-item:first-child {
+                border-top-left-radius: 0;
+                border-top-right-radius: 0;
+            }
+
+        }
+    }
+
+    .search-container {
+        position: relative;
+
+        button {
+            position: absolute; 
+            top: 0;
+            right: 12px;
+            height: 100%; 
+            width: 80;
+            font-size: 2rem 
+        }
+
+        .filtered-jobs {
+            position: absolute;
+            left: 0;
+            width: 100%;
+            padding: 0 12px;
+            max-height: 350px;
+            overflow: scroll;
+    
+    
+            .list-group-item {
+                padding: 16px;
+                text-align: left;
+                font-weight: bold;
+                font-size: 20px;
+    
+                -webkit-touch-callout: none; /* iOS Safari */
+                -webkit-user-select: none; /* Safari */
+                -khtml-user-select: none; /* Konqueror HTML */
+                -moz-user-select: none; /* Old versions of Firefox */
+                    -ms-user-select: none; /* Internet Explorer/Edge */
+                        user-select: none; /* Non-prefixed version, currently
+                                            supported by Chrome, Edge, Opera and Firefox */
+    
+                &:hover {
+                    background: rgb(218, 227, 230);
+                    cursor: pointer;
+                }
+            }
+        }
+    }
+    
+}
