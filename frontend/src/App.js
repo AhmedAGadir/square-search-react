@@ -1,5 +1,5 @@
 import './App.css';
-import React, {useEffect, useRef} from 'react';
+import React, { useEffect, useRef } from 'react';
 import NavBar from './Components/NavBar';
 import Header from './Components/Header';
 import Footer from './Components/Footer';
@@ -14,19 +14,34 @@ import HomeIntro from './Components/HomeIntro';
 import Services from './Components/Services';
 import Regions from './Components/Regions';
 
-
 function App() {
-
-
   const underConstructionRef = useRef(null);
 
   React.useEffect(() => {
-      // underConstructionRef.current.click();
+    fetch('/api')
+      .then((response) => {
+        console.log('response', response);
+        return response;
+      })
+      .then((response) => response.json())
+      .then((result) => console.log('result', result))
+      .catch((err) => {
+        console.log(err);
+      });
+
+    // underConstructionRef.current.click();
   }, []);
 
   return (
     <div>
-       <button ref= {underConstructionRef} type="button" className="btn btn-primary" data-bs-toggle="modal" data-bs-target="#under-construction-modal" style={{display: 'none'}}>
+      <button
+        ref={underConstructionRef}
+        type="button"
+        className="btn btn-primary"
+        data-bs-toggle="modal"
+        data-bs-target="#under-construction-modal"
+        style={{ display: 'none' }}
+      >
         Under Construction Button
       </button>
       <NavBar />
@@ -36,8 +51,6 @@ function App() {
       <JobsPreview />
       <Regions />
 
-
-
       {/* <Portfolio /> */}
       {/* <About />
       <Team />
@@ -45,10 +58,8 @@ function App() {
       <Contact />
       <Footer />
       <Modal />
-    </div >
+    </div>
   );
 }
 
 export default App;
-
-
