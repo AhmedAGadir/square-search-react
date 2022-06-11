@@ -39,10 +39,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Ruby on Rails Engineer - PostgreSQL, MongoDB, Redis, HTML, CSS",
-        "location": [
-            -118.404471,
-            33.978622
-        ],
+        "location": "Amarillo",
         "skills": [
             "mongodb"
         ],
@@ -58,10 +55,7 @@ export const JOBS = [
             "companyName": "Unicommerce eSolutions Pvt. Ltd. "
         },
         "jobTitle": "Senior/Java Developer (Java/J2EE, Web services) ",
-        "location": [
-            77.313302,
-            28.584569
-        ],
+        "location": "Sunnyvale",
         "skills": [
             "java"
         ],
@@ -77,10 +71,7 @@ export const JOBS = [
             "companyName": "Inventum"
         },
         "jobTitle": "Java Team Lead",
-        "location": [
-            77.410934,
-            28.5332598
-        ],
+        "location": "Scottsdale",
         "skills": [
             "java"
         ],
@@ -96,10 +87,7 @@ export const JOBS = [
             "companyName": "BlackRock"
         },
         "jobTitle": "VP - Portfolio Mangement Tool(Java Technology)(Looking for only IIT,NIT,REC)",
-        "location": [
-            77.085941,
-            28.51123
-        ],
+        "location": "Greenville",
         "skills": [
             "java"
         ],
@@ -115,10 +103,7 @@ export const JOBS = [
             "companyName": "SapientNitro"
         },
         "jobTitle": "Specialist Infrastructure – (Build and Release)",
-        "location": [
-            77.070722,
-            28.509578
-        ],
+        "location": "Denver",
         "skills": [
             "must have"
         ],
@@ -134,10 +119,7 @@ export const JOBS = [
             "companyName": "Burns Sheehan"
         },
         "jobTitle": "Javascript Developer",
-        "location": [
-            -0.087268,
-            51.511592
-        ],
+        "location": "Garden Grove",
         "skills": [
             "node.js"
         ],
@@ -153,10 +135,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "JavaScript Developer - JavaScript, Backbone.js, Node.js, HTML5",
-        "location": [
-            -96.794976,
-            33.018308
-        ],
+        "location": "Grand Prairie",
         "skills": [
             "node.js"
         ],
@@ -172,10 +151,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Ruby on Rails Engineer - PostgreSQL, MongoDB, Redis, HTML, CSS",
-        "location": [
-            -118.404471,
-            33.978622
-        ],
+        "location": "Richland",
         "skills": [
             "mongodb"
         ],
@@ -191,10 +167,7 @@ export const JOBS = [
             "companyName": "Unicommerce eSolutions Pvt. Ltd. "
         },
         "jobTitle": "Senior/Java Developer (Java/J2EE, Web services) ",
-        "location": [
-            77.313302,
-            28.584569
-        ],
+        "location": "Visalia",
         "skills": [
             "java"
         ],
@@ -210,10 +183,7 @@ export const JOBS = [
             "companyName": "Inventum"
         },
         "jobTitle": "Java Team Lead",
-        "location": [
-            77.410934,
-            28.5332598
-        ],
+        "location": "Las Vegas",
         "skills": [
             "java"
         ],
@@ -229,10 +199,7 @@ export const JOBS = [
             "companyName": "BlackRock"
         },
         "jobTitle": "VP - Portfolio Mangement Tool(Java Technology)(Looking for only IIT,NIT,REC)",
-        "location": [
-            77.085941,
-            28.51123
-        ],
+        "location": "Eugene",
         "skills": [
             "java"
         ],
@@ -248,10 +215,7 @@ export const JOBS = [
             "companyName": "SapientNitro"
         },
         "jobTitle": "Specialist Infrastructure – (Build and Release)",
-        "location": [
-            77.070722,
-            28.509578
-        ],
+        "location": "Boise City",
         "skills": [
             "must have"
         ],
@@ -267,10 +231,7 @@ export const JOBS = [
             "companyName": "Burns Sheehan"
         },
         "jobTitle": "Javascript Developer",
-        "location": [
-            -0.087268,
-            51.511592
-        ],
+        "location": "Las Cruces",
         "skills": [
             "node.js"
         ],
@@ -286,10 +247,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Ruby on Rails Engineer - PostgreSQL, MongoDB, Redis, HTML, CSS",
-        "location": [
-            -118.404471,
-            33.978622
-        ],
+        "location": "Roanoke",
         "skills": [
             "mongodb"
         ],
@@ -305,10 +263,7 @@ export const JOBS = [
             "companyName": "Sapient Global Markets"
         },
         "jobTitle": "Manager Technology Java",
-        "location": [
-            77.070722,
-            28.509578
-        ],
+        "location": "Pasadena",
         "skills": [
             "core java",
             "java - spring framework",
@@ -342,10 +297,7 @@ export const JOBS = [
             "companyName": "Unicommerce eSolutions Pvt. Ltd. "
         },
         "jobTitle": "Senior/Java Developer (Java/J2EE, Web services) ",
-        "location": [
-            77.313302,
-            28.584569
-        ],
+        "location": "Mission Viejo",
         "skills": [
             "java"
         ],
@@ -361,10 +313,7 @@ export const JOBS = [
             "companyName": "Inventum"
         },
         "jobTitle": "Java Team Lead",
-        "location": [
-            77.410934,
-            28.5332598
-        ],
+        "location": "Winter Haven",
         "skills": [
             "java"
         ],
@@ -380,10 +329,7 @@ export const JOBS = [
             "companyName": "BlackRock"
         },
         "jobTitle": "VP - Portfolio Mangement Tool(Java Technology)(Looking for only IIT,NIT,REC)",
-        "location": [
-            77.085941,
-            28.51123
-        ],
+        "location": "South Lyon",
         "skills": [
             "java"
         ],
@@ -399,10 +345,7 @@ export const JOBS = [
             "companyName": "SapientNitro"
         },
         "jobTitle": "Specialist Infrastructure – (Build and Release)",
-        "location": [
-            77.070722,
-            28.509578
-        ],
+        "location": "Seaside",
         "skills": [
             "must have"
         ],
@@ -418,10 +361,7 @@ export const JOBS = [
             "companyName": "Expedia"
         },
         "jobTitle": "Sr SDE - Senior Ruby Software Engineer",
-        "location": [
-            77.064564,
-            28.464956
-        ],
+        "location": "Sterling Heights",
         "skills": [
             "ruby"
         ],
@@ -437,10 +377,7 @@ export const JOBS = [
             "companyName": "Expedia"
         },
         "jobTitle": "SDE I - Ruby Software Engineer",
-        "location": [
-            77.064564,
-            28.464956
-        ],
+        "location": "Round Lake Beach",
         "skills": [
             "ruby"
         ],
@@ -456,10 +393,7 @@ export const JOBS = [
             "companyName": "Expedia"
         },
         "jobTitle": "SDE II - Ruby Software Engineer",
-        "location": [
-            77.064564,
-            28.464956
-        ],
+        "location": "Newark",
         "skills": [
             "ruby"
         ],
@@ -475,10 +409,7 @@ export const JOBS = [
             "companyName": "SlideShare"
         },
         "jobTitle": "Software Engineers (Ruby / Python / Java)",
-        "location": [
-            77.097816,
-            28.45467
-        ],
+        "location": "Bryan",
         "skills": [
             "ruby"
         ],
@@ -494,10 +425,7 @@ export const JOBS = [
             "companyName": "Expedia"
         },
         "jobTitle": "SET I",
-        "location": [
-            77.064564,
-            28.464956
-        ],
+        "location": "Atlantic City",
         "skills": [
             "ruby"
         ],
@@ -513,10 +441,7 @@ export const JOBS = [
             "companyName": "SlideShare"
         },
         "jobTitle": "Software Engineers (Ruby / Python / Java)",
-        "location": [
-            77.097816,
-            28.45467
-        ],
+        "location": "Harlingen",
         "skills": [
             "python"
         ],
@@ -532,10 +457,7 @@ export const JOBS = [
             "companyName": "Expedia"
         },
         "jobTitle": "Software Dev Engineer (Active Analytics)",
-        "location": [
-            77.064564,
-            28.464956
-        ],
+        "location": "Salem",
         "skills": [
             "python"
         ],
@@ -551,10 +473,7 @@ export const JOBS = [
             "companyName": "GlobalLogic"
         },
         "jobTitle": "QA Automation Engineer (Whitebox)",
-        "location": [
-            77.434328,
-            28.498109
-        ],
+        "location": "Asheville",
         "skills": [
             "python"
         ],
@@ -570,10 +489,7 @@ export const JOBS = [
             "companyName": "GlobalLogic"
         },
         "jobTitle": "QA Automation Lead (Whitebox)",
-        "location": [
-            77.434328,
-            28.498109
-        ],
+        "location": "Sterling Heights",
         "skills": [
             "python"
         ],
@@ -589,10 +505,7 @@ export const JOBS = [
             "companyName": "Expedia"
         },
         "jobTitle": "SDE II - Front End Software Engineer",
-        "location": [
-            77.064564,
-            28.464956
-        ],
+        "location": "Visalia",
         "skills": [
             "node.js"
         ],
@@ -608,10 +521,7 @@ export const JOBS = [
             "companyName": "Burns Sheehan"
         },
         "jobTitle": "Javascript Developer",
-        "location": [
-            -0.087268,
-            51.511592
-        ],
+        "location": "Santa Cruz",
         "skills": [
             "node.js"
         ],
@@ -627,10 +537,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Javascript Developer - Javascript Programmer - Node.JS Developer",
-        "location": [
-            -118.404471,
-            33.978622
-        ],
+        "location": "Kennewick",
         "skills": [
             "node.js"
         ],
@@ -646,10 +553,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Javascript Developer - Javascript Programmer - Node.JS Developer",
-        "location": [
-            -118.404471,
-            33.978622
-        ],
+        "location": "Anchorage",
         "skills": [
             "node.js"
         ],
@@ -665,10 +569,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "JavaScript Developer - JavaScript, Backbone.js, Node.js, HTML5",
-        "location": [
-            -96.794976,
-            33.018308
-        ],
+        "location": "Cleveland",
         "skills": [
             "node.js"
         ],
@@ -684,10 +585,7 @@ export const JOBS = [
             "companyName": "Expedia"
         },
         "jobTitle": "Sr SDE - Senior Ruby Software Engineer",
-        "location": [
-            77.064564,
-            28.464956
-        ],
+        "location": "San Antonio",
         "skills": [
             "mongodb"
         ],
@@ -703,10 +601,7 @@ export const JOBS = [
             "companyName": "Expedia"
         },
         "jobTitle": "SET I",
-        "location": [
-            77.064564,
-            28.464956
-        ],
+        "location": "Hampton",
         "skills": [
             "mongodb"
         ],
@@ -722,10 +617,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Ruby on Rails Engineer - PostgreSQL, MongoDB, Redis, HTML, CSS",
-        "location": [
-            -118.404471,
-            33.978622
-        ],
+        "location": "Norwich",
         "skills": [
             "mongodb"
         ],
@@ -741,10 +633,7 @@ export const JOBS = [
             "companyName": "Google 1 - US"
         },
         "jobTitle": "Partner Technology Manager",
-        "location": [
-            77.124055,
-            28.546208
-        ],
+        "location": "New Haven",
         "skills": [
             "python"
         ],
@@ -760,10 +649,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Javascript Developer - JavaScript, Consumer Web, JS Frameworks",
-        "location": [
-            -122.078488,
-            37.414198
-        ],
+        "location": "Indianapolis",
         "skills": [
             "node.js"
         ],
@@ -779,10 +665,7 @@ export const JOBS = [
             "companyName": "Microsoft"
         },
         "jobTitle": "Partner Segment Marketing Mgr",
-        "location": [
-            77.093382,
-            28.495068
-        ],
+        "location": "Norman",
         "skills": [
             "cloud"
         ],
@@ -798,10 +681,7 @@ export const JOBS = [
             "companyName": "Google"
         },
         "jobTitle": "Enterprise SMB Sales Representative",
-        "location": [
-            77.088823,
-            28.495624
-        ],
+        "location": "Naperville",
         "skills": [
             "cloud"
         ],
@@ -817,10 +697,7 @@ export const JOBS = [
             "companyName": "Google"
         },
         "jobTitle": "Enterprise SMB Sales Manager",
-        "location": [
-            77.088823,
-            28.495624
-        ],
+        "location": "Norman",
         "skills": [
             "cloud"
         ],
@@ -836,10 +713,7 @@ export const JOBS = [
             "companyName": "Adobe"
         },
         "jobTitle": "Software Developer (PHP, SOAP/REST, SQL)",
-        "location": [
-            77.344826,
-            28.588672
-        ],
+        "location": "Aberdeen",
         "skills": [
             "php"
         ],
@@ -855,10 +729,7 @@ export const JOBS = [
             "companyName": "HelpingDoc"
         },
         "jobTitle": "Sr. Software Developer (PHP, MySQL)",
-        "location": [
-            77.2026103,
-            28.6751689
-        ],
+        "location": "Baton Rouge",
         "skills": [
             "php"
         ],
@@ -874,10 +745,7 @@ export const JOBS = [
             "companyName": "KLEWARD"
         },
         "jobTitle": "Senior Software Engineer - PHP/Zend",
-        "location": [
-            77.3855549,
-            28.6120528
-        ],
+        "location": "Bellevue",
         "skills": [
             "php"
         ],
@@ -893,10 +761,7 @@ export const JOBS = [
             "companyName": "Expedia"
         },
         "jobTitle": "Senior Hadoop Admin",
-        "location": [
-            77.064564,
-            28.464956
-        ],
+        "location": "Grayslake",
         "skills": [
             "hadoop"
         ],
@@ -912,10 +777,7 @@ export const JOBS = [
             "companyName": "Sapient Global Markets"
         },
         "jobTitle": "Hadoop Professionals/Experts ",
-        "location": [
-            77.070723,
-            28.509541
-        ],
+        "location": "North Port",
         "skills": [
             "hadoop"
         ],
@@ -931,10 +793,7 @@ export const JOBS = [
             "companyName": "Expedia"
         },
         "jobTitle": "Development Manager",
-        "location": [
-            77.064564,
-            28.464956
-        ],
+        "location": "Birmingham",
         "skills": [
             "hadoop"
         ],
@@ -950,10 +809,7 @@ export const JOBS = [
             "companyName": "Expedia"
         },
         "jobTitle": "Manager, Development (Active Analytics)",
-        "location": [
-            77.064564,
-            28.464956
-        ],
+        "location": "Philadelphia",
         "skills": [
             "hadoop"
         ],
@@ -969,10 +825,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Sr SCALA Software Engineer - Scala Developer - Scala Programmer",
-        "location": [
-            -73.979098,
-            40.750683
-        ],
+        "location": "Billings",
         "skills": [
             "scala"
         ],
@@ -988,10 +841,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Scala Developer - Scala, Java, PHP",
-        "location": [
-            -77.438879,
-            38.883838
-        ],
+        "location": "Santa Clarita",
         "skills": [
             "scala"
         ],
@@ -1007,10 +857,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Scala Developer - Scala, Java, PHP",
-        "location": [
-            -76.851856,
-            39.184974
-        ],
+        "location": "Inglewood",
         "skills": [
             "scala"
         ],
@@ -1026,10 +873,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Java Developer, Scala, Well Funded Startup, Equity Offered, NYC",
-        "location": [
-            -73.979098,
-            40.750683
-        ],
+        "location": "Ogden",
         "skills": [
             "scala"
         ],
@@ -1045,10 +889,7 @@ export const JOBS = [
             "companyName": "Erlang Solutions Ltd."
         },
         "jobTitle": "Senior Erlang Developers",
-        "location": [
-            -0.075438,
-            51.518826
-        ],
+        "location": "Elizabeth",
         "skills": [
             "erlang"
         ],
@@ -1064,10 +905,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Senior Erlang Developer for massive international gaming company",
-        "location": [
-            -118.404471,
-            33.978622
-        ],
+        "location": "Killeen",
         "skills": [
             "erlang"
         ],
@@ -1083,10 +921,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Senior Erlang Developer for massive international gaming company",
-        "location": [
-            -118.404471,
-            33.978622
-        ],
+        "location": "Bryan",
         "skills": [
             "erlang"
         ],
@@ -1102,10 +937,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Senior erlang developer - Erlang, OTP Development/Coding, Teleco",
-        "location": [
-            -77.438879,
-            38.883838
-        ],
+        "location": "Santa Clara",
         "skills": [
             "erlang"
         ],
@@ -1121,10 +953,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Senior Erlang OTP Developer - Erlang, OTP Development, Telecommu",
-        "location": [
-            -77.438879,
-            38.883838
-        ],
+        "location": "Roanoke",
         "skills": [
             "erlang"
         ],
@@ -1140,10 +969,7 @@ export const JOBS = [
             "companyName": "Time Warner Cable"
         },
         "jobTitle": "Sr. Software Engineer, (HTTP, HTML 5, CSS, JSON, Java, Scala/Lift, Groovy/Grails, Spring,Lucene/Solr) Common Services Tier Job",
-        "location": [
-            -104.985392,
-            39.669076
-        ],
+        "location": "Naples",
         "skills": [
             "clojure"
         ],
@@ -1159,10 +985,7 @@ export const JOBS = [
             "companyName": "EchoStar Corporation"
         },
         "jobTitle": "Software Engineer (Java, C++, Python)",
-        "location": [
-            -104.867192,
-            39.575948
-        ],
+        "location": "Madison",
         "skills": [
             "clojure"
         ],
@@ -1178,10 +1001,7 @@ export const JOBS = [
             "companyName": "Sonian"
         },
         "jobTitle": "Principal Software Engineer, User Interface",
-        "location": [
-            -71.199217,
-            42.291374
-        ],
+        "location": "College Station",
         "skills": [
             "clojure"
         ],
@@ -1197,10 +1017,7 @@ export const JOBS = [
             "companyName": "Globys Inc"
         },
         "jobTitle": "Senior Developer - Big Data & Distributed Computing Platforms - Startup Division",
-        "location": [
-            -74.002966,
-            40.752011
-        ],
+        "location": "Clarke County",
         "skills": [
             "clojure"
         ],
@@ -1216,10 +1033,7 @@ export const JOBS = [
             "companyName": "Kforce Inc."
         },
         "jobTitle": "Lisp Developer",
-        "location": [
-            -80.334919,
-            26.136231
-        ],
+        "location": "Albuquerque",
         "skills": [
             "clojure"
         ],
@@ -1235,10 +1049,7 @@ export const JOBS = [
             "companyName": "Sapient Global Markets"
         },
         "jobTitle": "Specialist - Core Java",
-        "location": [
-            77.070722,
-            28.509578
-        ],
+        "location": "Hemet",
         "skills": [
             "bachelor’s degree in computer science or a related field"
         ],
@@ -1254,10 +1065,7 @@ export const JOBS = [
             "companyName": "Sapient Global Markets"
         },
         "jobTitle": "Specialist - Core Java",
-        "location": [
-            77.070722,
-            28.509578
-        ],
+        "location": "Norman",
         "skills": [
             "bachelor’s degree in computer science or a related field"
         ],
@@ -1273,10 +1081,7 @@ export const JOBS = [
             "companyName": "SapientNitro"
         },
         "jobTitle": "Senior Developer Day Communique CMS",
-        "location": [
-            77.070722,
-            28.509578
-        ],
+        "location": "College Station",
         "skills": [
             "mastery of all core web technologies including xml",
             "xhtml",
@@ -1296,10 +1101,7 @@ export const JOBS = [
             "companyName": "Opera Solutions"
         },
         "jobTitle": "Lead Java Developer (Backend)",
-        "location": [
-            77.31518179999999,
-            28.567812
-        ],
+        "location": "Arvada",
         "skills": [
             "java"
         ],
@@ -1315,10 +1117,7 @@ export const JOBS = [
             "companyName": "Adobe"
         },
         "jobTitle": "Member Technical Staff",
-        "location": [
-            77.344826,
-            28.588672
-        ],
+        "location": "Redding",
         "skills": [
             "ruby"
         ],
@@ -1334,10 +1133,7 @@ export const JOBS = [
             "companyName": "Exponential"
         },
         "jobTitle": "DEVELOPER - JAVASCRIPT",
-        "location": [
-            77.181637,
-            28.670059
-        ],
+        "location": "Costa Mesa",
         "skills": [
             "ruby"
         ],
@@ -1353,10 +1149,7 @@ export const JOBS = [
             "companyName": "Opera Solutions"
         },
         "jobTitle": "Principal Scientist ",
-        "location": [
-            77.31518179999999,
-            28.567812
-        ],
+        "location": "Norfolk",
         "skills": [
             "python"
         ],
@@ -1372,10 +1165,7 @@ export const JOBS = [
             "companyName": "Google"
         },
         "jobTitle": "Technical Account Manager",
-        "location": [
-            77.088823,
-            28.495624
-        ],
+        "location": "Nashua",
         "skills": [
             "python"
         ],
@@ -1391,10 +1181,7 @@ export const JOBS = [
             "companyName": "Google"
         },
         "jobTitle": "Technical Account Manager, Android Partner Engineering",
-        "location": [
-            77.088823,
-            28.495624
-        ],
+        "location": "Muskegon",
         "skills": [
             "python"
         ],
@@ -1410,10 +1197,7 @@ export const JOBS = [
             "companyName": "Talener Group"
         },
         "jobTitle": "Senior Software Engineer/Development Lead",
-        "location": [
-            -122.40185,
-            37.790346
-        ],
+        "location": "Duluth",
         "skills": [
             "node.js"
         ],
@@ -1429,10 +1213,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Web Developer - HTML, CSS, JavaScript",
-        "location": [
-            -118.404471,
-            33.978622
-        ],
+        "location": "Omaha",
         "skills": [
             "node.js"
         ],
@@ -1448,10 +1229,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Web Application Engineer - HTML5, CSS3, BackboneJS, JS Framework",
-        "location": [
-            -73.979098,
-            40.750683
-        ],
+        "location": "St. Petersburg",
         "skills": [
             "node.js"
         ],
@@ -1467,10 +1245,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Web Application Engineer - HTML5, CSS3, BackboneJS, JS Framework",
-        "location": [
-            -73.979098,
-            40.750683
-        ],
+        "location": "Henderson",
         "skills": [
             "node.js"
         ],
@@ -1486,10 +1261,7 @@ export const JOBS = [
             "companyName": "GREE International, Inc"
         },
         "jobTitle": "Software Engineer - Javascript",
-        "location": [
-            -122.345853,
-            37.579539
-        ],
+        "location": "Merced",
         "skills": [
             "node.js"
         ],
@@ -1505,10 +1277,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Ruby on Rails Engineer - PostgreSQL, MongoDB, Redis, HTML, CSS",
-        "location": [
-            -118.404471,
-            33.978622
-        ],
+        "location": "Mesa",
         "skills": [
             "mongodb"
         ],
@@ -1524,10 +1293,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Senior Developer - Ruby, Rails, MongoDB",
-        "location": [
-            -122.078488,
-            37.414198
-        ],
+        "location": "Apple Valley",
         "skills": [
             "mongodb"
         ],
@@ -1543,10 +1309,7 @@ export const JOBS = [
             "companyName": "MoTek Technologies"
         },
         "jobTitle": "Senior Ruby Developer-Ruby on Rails Engineer (RoR, MongoDB, Rails, Sinatra)",
-        "location": [
-            -121.977033,
-            37.391467
-        ],
+        "location": "Waco",
         "skills": [
             "mongodb"
         ],
@@ -1562,10 +1325,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Full Stack Developer - JavaScript, CoffeeScript, HTML, MongoDB",
-        "location": [
-            -111.891503,
-            40.480838
-        ],
+        "location": "Erie",
         "skills": [
             "mongodb"
         ],
@@ -1581,10 +1341,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "VP of Engineering - MongoDB,Lucene - Popular High Traffic Site",
-        "location": [
-            -118.404471,
-            33.978622
-        ],
+        "location": "Memphis",
         "skills": [
             "mongodb"
         ],
@@ -1600,10 +1357,7 @@ export const JOBS = [
             "companyName": "Ericsson"
         },
         "jobTitle": "Customer Unit - Chief Information Officer",
-        "location": [
-            77.088884,
-            28.4956
-        ],
+        "location": "Pembroke Pines",
         "skills": [
             "cloud"
         ],
@@ -1619,10 +1373,7 @@ export const JOBS = [
             "companyName": "Adobe"
         },
         "jobTitle": "Senior Product Manager",
-        "location": [
-            77.344826,
-            28.588672
-        ],
+        "location": "Winston",
         "skills": [
             "cloud"
         ],
@@ -1638,10 +1389,7 @@ export const JOBS = [
             "companyName": "Atlogys Technical Consulting"
         },
         "jobTitle": "Tech lead / Senior Software Engineer",
-        "location": [
-            77.248831,
-            28.544643
-        ],
+        "location": "New Haven",
         "skills": [
             "php"
         ],
@@ -1657,10 +1405,7 @@ export const JOBS = [
             "companyName": "Intuitent Online"
         },
         "jobTitle": "PHP developer with 2+ years of experience for exciting role in startup",
-        "location": [
-            77.090554,
-            28.463809
-        ],
+        "location": "Oklahoma City",
         "skills": [
             "php"
         ],
@@ -1676,10 +1421,7 @@ export const JOBS = [
             "companyName": "InfoAxon Technologies Limited"
         },
         "jobTitle": "Technical Architect Java,Professional Open Source Practice",
-        "location": [
-            77.381161,
-            28.620987
-        ],
+        "location": "Roanoke",
         "skills": [
             "php"
         ],
@@ -1695,10 +1437,7 @@ export const JOBS = [
             "companyName": "Cognizant Technology Solutions"
         },
         "jobTitle": "Analytics Opportunity in Cognizant",
-        "location": [
-            77.070326,
-            28.509324
-        ],
+        "location": "Columbia",
         "skills": [
             "hadoop"
         ],
@@ -1714,10 +1453,7 @@ export const JOBS = [
             "companyName": "Yahoo!"
         },
         "jobTitle": "Product Evangelist, Hadoop",
-        "location": [
-            -122.025112,
-            37.417223
-        ],
+        "location": "Saint Paul",
         "skills": [
             "hadoop"
         ],
@@ -1733,10 +1469,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Java / Scala Engineers Needed - Growing eCommerce Firm in NYC!",
-        "location": [
-            -73.979098,
-            40.750683
-        ],
+        "location": "San Jose",
         "skills": [
             "scala"
         ],
@@ -1752,10 +1485,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Senior erlang developer - Erlang, OTP Development/Coding, Teleco",
-        "location": [
-            -77.438879,
-            38.883838
-        ],
+        "location": "Santa Cruz",
         "skills": [
             "erlang"
         ],
@@ -1771,10 +1501,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Erlang developer, Python Develper, Back end engineer - Erlang,",
-        "location": [
-            -122.078488,
-            37.414198
-        ],
+        "location": "Milwaukee",
         "skills": [
             "erlang"
         ],
@@ -1790,10 +1517,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Erlang developer, Python Develper, Back end engineer - Erlang,",
-        "location": [
-            -122.078488,
-            37.414198
-        ],
+        "location": "Santa Clarita",
         "skills": [
             "erlang"
         ],
@@ -1809,10 +1533,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Senior Erlang Developer - Erland, OTP Coding, Telecommunications",
-        "location": [
-            -77.438879,
-            38.883838
-        ],
+        "location": "Panama City",
         "skills": [
             "erlang"
         ],
@@ -1828,10 +1549,7 @@ export const JOBS = [
             "companyName": "Shutterfly"
         },
         "jobTitle": "Sr. Development Engineer - Platform",
-        "location": [
-            -122.256474,
-            37.539586
-        ],
+        "location": "Nashua",
         "skills": [
             "clojure"
         ],
@@ -1847,10 +1565,7 @@ export const JOBS = [
             "companyName": "Shutterfly"
         },
         "jobTitle": "Senior Engineer Dev-OPS - Platform",
-        "location": [
-            -122.256474,
-            37.539586
-        ],
+        "location": "Visalia",
         "skills": [
             "clojure"
         ],
@@ -1866,10 +1581,7 @@ export const JOBS = [
             "companyName": "Commission Junction"
         },
         "jobTitle": "Engineering Team Lead ",
-        "location": [
-            -87.635712,
-            41.881822
-        ],
+        "location": "Santa Cruz",
         "skills": [
             "clojure"
         ],
@@ -1885,10 +1597,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Big Data Architect - HBase, Scala, Java, Ruby, Hadoop",
-        "location": [
-            -97.685988,
-            30.251246
-        ],
+        "location": "Los Angeles",
         "skills": [
             "clojure"
         ],
@@ -1904,10 +1613,7 @@ export const JOBS = [
             "companyName": "Delta Design"
         },
         "jobTitle": "Embedded Software Engineer",
-        "location": [
-            -117.039618,
-            32.943164
-        ],
+        "location": "Norman",
         "skills": [
             "clojure"
         ],
@@ -1923,10 +1629,7 @@ export const JOBS = [
             "companyName": "SAP"
         },
         "jobTitle": "Online Development Manager (f/m)",
-        "location": [
-            8.645579,
-            49.295272
-        ],
+        "location": "Cary",
         "skills": [
             "java"
         ],
@@ -1942,10 +1645,7 @@ export const JOBS = [
             "companyName": "Advanced Resource Managers"
         },
         "jobTitle": "Multiple Java Developer Opportunites Berlin, Germany Online Super Brand Up To €80,000 + Relocation + Bonus",
-        "location": [
-            13.34368,
-            52.495541
-        ],
+        "location": "Santa Rosa",
         "skills": [
             "java"
         ],
@@ -1961,10 +1661,7 @@ export const JOBS = [
             "companyName": "Jefferson Wolfe"
         },
         "jobTitle": "Senior Java Engineer",
-        "location": [
-            13.417225,
-            52.543609
-        ],
+        "location": "Naples",
         "skills": [
             "java"
         ],
@@ -1980,10 +1677,7 @@ export const JOBS = [
             "companyName": "Guidewire Software"
         },
         "jobTitle": "Technical Consultant - EU - Germany",
-        "location": [
-            11.586187,
-            48.130083
-        ],
+        "location": "Gilbert",
         "skills": [
             "java"
         ],
@@ -1999,10 +1693,7 @@ export const JOBS = [
             "companyName": "BLUE ELEPHANT SYSTEMS"
         },
         "jobTitle": " (Senior) Java Software-Entwickler (m/w) ",
-        "location": [
-            9.167814,
-            48.76361
-        ],
+        "location": "Downey",
         "skills": [
             "java"
         ],
@@ -2018,10 +1709,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Java Developer - Java Cloud Analytics Developer - TS/SCI FSP",
-        "location": [
-            -77.438879,
-            38.883838
-        ],
+        "location": "Bryan",
         "skills": [
             "java"
         ],
@@ -2037,10 +1725,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Embedded Java Applications Engineer",
-        "location": [
-            -122.078488,
-            37.414198
-        ],
+        "location": "Anaheim",
         "skills": [
             "java"
         ],
@@ -2056,10 +1741,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Embedded Java Applications Engineer",
-        "location": [
-            -122.078488,
-            37.414198
-        ],
+        "location": "Springfield",
         "skills": [
             "java"
         ],
@@ -2075,10 +1757,7 @@ export const JOBS = [
             "companyName": "Vertex Solutions International Ltd"
         },
         "jobTitle": "Chief Software Architect",
-        "location": [
-            13.516416,
-            52.375488
-        ],
+        "location": "Topeka",
         "skills": [
             "ruby"
         ],
@@ -2094,10 +1773,7 @@ export const JOBS = [
             "companyName": "genua mbh"
         },
         "jobTitle": "Ruby on Rails Developer (f/m) for Centralized Management of VPN and Firewall Systems",
-        "location": [
-            11.759645,
-            48.177359
-        ],
+        "location": "Santa Ana",
         "skills": [
             "ruby"
         ],
@@ -2113,10 +1789,7 @@ export const JOBS = [
             "companyName": "genua mbh"
         },
         "jobTitle": "Ruby-on-Rails-Entwickler/-in  für zentrales Management von VPN- und Firewallsystemen",
-        "location": [
-            11.759645,
-            48.177359
-        ],
+        "location": "Saint Paul",
         "skills": [
             "ruby"
         ],
@@ -2132,10 +1805,7 @@ export const JOBS = [
             "companyName": "Yieldlab GmbH"
         },
         "jobTitle": "Hadoop Big Data Software Engineer",
-        "location": [
-            9.760782,
-            53.574636
-        ],
+        "location": "Elizabeth",
         "skills": [
             "ruby"
         ],
@@ -2151,10 +1821,7 @@ export const JOBS = [
             "companyName": "ASG International"
         },
         "jobTitle": "Social Media Strategist",
-        "location": [
-            11.59261,
-            48.17645
-        ],
+        "location": "Dayton",
         "skills": [
             "ruby"
         ],
@@ -2170,10 +1837,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Software Engineer - Ruby on Rails - Content and High Traffic Web",
-        "location": [
-            -122.078488,
-            37.414198
-        ],
+        "location": "Torrance",
         "skills": [
             "ruby"
         ],
@@ -2189,10 +1853,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Sr. Web Developer - Ruby on Rails, Ruby, Unix, NoSQl, Git, Linux",
-        "location": [
-            -71.390898,
-            42.308086
-        ],
+        "location": "Houma",
         "skills": [
             "ruby"
         ],
@@ -2208,10 +1869,7 @@ export const JOBS = [
             "companyName": "Intel Corporation"
         },
         "jobTitle": "Working Student Python Development (f/m)  - # 631225",
-        "location": [
-            11.7257,
-            48.151
-        ],
+        "location": "Phoenix",
         "skills": [
             "python"
         ],
@@ -2227,10 +1885,7 @@ export const JOBS = [
             "companyName": "Juniper Networks"
         },
         "jobTitle": "Professional Services Consultant EMS/NMS",
-        "location": [
-            8.62686,
-            50.08162
-        ],
+        "location": "Garden Grove",
         "skills": [
             "python"
         ],
@@ -2246,10 +1901,7 @@ export const JOBS = [
             "companyName": "Google"
         },
         "jobTitle": "Software Engineer in Test",
-        "location": [
-            11.57729,
-            48.138595
-        ],
+        "location": "Yonkers",
         "skills": [
             "python"
         ],
@@ -2265,10 +1917,7 @@ export const JOBS = [
             "companyName": "Continental"
         },
         "jobTitle": "Werkstudent (m/w) für Software Tool Themen (Job ID: 94485)",
-        "location": [
-            12.141348,
-            49.006831
-        ],
+        "location": "Cambridge",
         "skills": [
             "python"
         ],
@@ -2284,10 +1933,7 @@ export const JOBS = [
             "companyName": "McAfee"
         },
         "jobTitle": "Software Engineer in Test (SDET)",
-        "location": [
-            8.795355,
-            51.726051
-        ],
+        "location": "Medford",
         "skills": [
             "python"
         ],
@@ -2303,10 +1949,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Python Developer - Hot Mobile Startup - Python - Smart Phone Dev",
-        "location": [
-            -118.404471,
-            33.978622
-        ],
+        "location": "Garland",
         "skills": [
             "python"
         ],
@@ -2322,10 +1965,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Python Developer - Hot Mobile Startup - Python - Smart Phone Dev",
-        "location": [
-            -118.404471,
-            33.978622
-        ],
+        "location": "New Orleans",
         "skills": [
             "python"
         ],
@@ -2341,10 +1981,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Python Developer - Python Programmer - Python Engineer - Python",
-        "location": [
-            -118.404471,
-            33.978622
-        ],
+        "location": "Boise City",
         "skills": [
             "python"
         ],
@@ -2360,10 +1997,7 @@ export const JOBS = [
             "companyName": "Adobe"
         },
         "jobTitle": "Sr. Computer Scientist, Shared Cloud",
-        "location": [
-            9.984138,
-            53.542883
-        ],
+        "location": "Raleigh",
         "skills": [
             "mongodb"
         ],
@@ -2379,10 +2013,7 @@ export const JOBS = [
             "companyName": "69 Grad GmbH"
         },
         "jobTitle": "ASP.NET-Entwickler (m/w) mit Leidenschaft gesucht",
-        "location": [
-            11.560108,
-            48.137768
-        ],
+        "location": "Simi Valley",
         "skills": [
             "mongodb"
         ],
@@ -2398,10 +2029,7 @@ export const JOBS = [
             "companyName": "Adobe"
         },
         "jobTitle": "Computer Scientist, Shared Cloud",
-        "location": [
-            9.984138,
-            53.542883
-        ],
+        "location": "Daytona Beach",
         "skills": [
             "mongodb"
         ],
@@ -2417,10 +2045,7 @@ export const JOBS = [
             "companyName": "Ciber"
         },
         "jobTitle": "Sr Ruby on Rails Developer",
-        "location": [
-            77.602876,
-            12.932812
-        ],
+        "location": "Westminster",
         "skills": [
             "mongodb"
         ],
@@ -2436,10 +2061,7 @@ export const JOBS = [
             "companyName": "Adobe"
         },
         "jobTitle": "Technical Lead, Application Management",
-        "location": [
-            9.984138,
-            53.542883
-        ],
+        "location": "Torrance",
         "skills": [
             "cloud"
         ],
@@ -2455,10 +2077,7 @@ export const JOBS = [
             "companyName": "Colt Technology Services"
         },
         "jobTitle": "Product Manager – Virtualisation & Cloud Services x 2",
-        "location": [
-            6.943257,
-            50.939919
-        ],
+        "location": "Santa Rosa",
         "skills": [
             "cloud"
         ],
@@ -2474,10 +2093,7 @@ export const JOBS = [
             "companyName": "Microsoft"
         },
         "jobTitle": "CEE BDM Activation",
-        "location": [
-            11.581171,
-            48.290574
-        ],
+        "location": "Brighton",
         "skills": [
             "cloud"
         ],
@@ -2493,10 +2109,7 @@ export const JOBS = [
             "companyName": "Deutsche Telekom"
         },
         "jobTitle": "2 Technology Operator Cloud (m/w) (Linux Systemadministrator)",
-        "location": [
-            13.320228,
-            52.512992
-        ],
+        "location": "Murrieta",
         "skills": [
             "cloud"
         ],
@@ -2512,10 +2125,7 @@ export const JOBS = [
             "companyName": "Exact"
         },
         "jobTitle": "Proposition Manager Cloud Solutions Germany",
-        "location": [
-            6.921881,
-            50.945288
-        ],
+        "location": "Huntington Beach",
         "skills": [
             "cloud"
         ],
@@ -2531,10 +2141,7 @@ export const JOBS = [
             "companyName": "MoTek Technologies"
         },
         "jobTitle": "Director of Cloud",
-        "location": [
-            -121.887947,
-            37.33085
-        ],
+        "location": "Ann Arbor",
         "skills": [
             "cloud"
         ],
@@ -2550,10 +2157,7 @@ export const JOBS = [
             "companyName": "Google"
         },
         "jobTitle": "Engineering Solutions Architect, Cloud Platform",
-        "location": [
-            -122.083911,
-            37.422131
-        ],
+        "location": "Lancaster",
         "skills": [
             "cloud"
         ],
@@ -2569,10 +2173,7 @@ export const JOBS = [
             "companyName": "Okta, Inc."
         },
         "jobTitle": "Cloud Enterprise Architect",
-        "location": [
-            -122.891631,
-            49.242981
-        ],
+        "location": "Savannah",
         "skills": [
             "cloud"
         ],
@@ -2588,10 +2189,7 @@ export const JOBS = [
             "companyName": "Oracle"
         },
         "jobTitle": "Cloud Platform System Engineer",
-        "location": [
-            -71.232433,
-            42.495454
-        ],
+        "location": "Laredo",
         "skills": [
             "cloud"
         ],
@@ -2607,10 +2205,7 @@ export const JOBS = [
             "companyName": "Oracle"
         },
         "jobTitle": "Cloud Professionals Career Fair",
-        "location": [
-            -122.265966,
-            37.5294
-        ],
+        "location": "Fort Collins",
         "skills": [
             "cloud"
         ],
@@ -2626,10 +2221,7 @@ export const JOBS = [
             "companyName": "OBI"
         },
         "jobTitle": "Praktikant PHP Entwicklung",
-        "location": [
-            7.24809,
-            51.14643
-        ],
+        "location": "Tulsa",
         "skills": [
             "php"
         ],
@@ -2645,10 +2237,7 @@ export const JOBS = [
             "companyName": "Bertrandt AG"
         },
         "jobTitle": "Web- und Datenbankentwickler (m/w)",
-        "location": [
-            10.741776,
-            52.479154
-        ],
+        "location": "Downey",
         "skills": [
             "php"
         ],
@@ -2664,10 +2253,7 @@ export const JOBS = [
             "companyName": "Continental"
         },
         "jobTitle": "Praktikum Programmierung webbasierte Wissensdatenbank (Job ID: 150749)",
-        "location": [
-            8.52418,
-            50.14842
-        ],
+        "location": "Savannah",
         "skills": [
             "php"
         ],
@@ -2683,10 +2269,7 @@ export const JOBS = [
             "companyName": "Deutsche Telekom"
         },
         "jobTitle": "Kundenberater Geschäftskunden in Vollzeit (38h) in Nürnberg (m/w)",
-        "location": [
-            11.08952,
-            49.458893
-        ],
+        "location": "Jefferson",
         "skills": [
             "php"
         ],
@@ -2702,10 +2285,7 @@ export const JOBS = [
             "companyName": "Innogames GmbH"
         },
         "jobTitle": "Software Developer Portal (m/f)",
-        "location": [
-            9.9847,
-            53.46529
-        ],
+        "location": "Westminster",
         "skills": [
             "php"
         ],
@@ -2721,10 +2301,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "PHP Developer, PHP, LAMP, Fast growing co. looking for PHP guru!",
-        "location": [
-            -88.478491,
-            43.741754
-        ],
+        "location": "Richland",
         "skills": [
             "php"
         ],
@@ -2740,10 +2317,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Junior PHP Developer - Entry Level PHP Developer",
-        "location": [
-            -111.891503,
-            40.480838
-        ],
+        "location": "Jacksonville",
         "skills": [
             "php"
         ],
@@ -2759,10 +2333,7 @@ export const JOBS = [
             "companyName": "Dell"
         },
         "jobTitle": "Solutions Architecture Consultant - Cloud Solutions",
-        "location": [
-            6.172974,
-            49.136976
-        ],
+        "location": "Las Vegas",
         "skills": [
             "hadoop"
         ],
@@ -2778,10 +2349,7 @@ export const JOBS = [
             "companyName": "Yahoo!"
         },
         "jobTitle": "Senior Product Manager, Hadoop and Big Data",
-        "location": [
-            -122.025112,
-            37.417223
-        ],
+        "location": "Ann Arbor",
         "skills": [
             "hadoop"
         ],
@@ -2797,10 +2365,7 @@ export const JOBS = [
             "companyName": "Hortonworks"
         },
         "jobTitle": "Solutions Engineer - Big Data",
-        "location": [
-            -122.031936,
-            37.390284
-        ],
+        "location": "Daly City",
         "skills": [
             "hadoop"
         ],
@@ -2816,10 +2381,7 @@ export const JOBS = [
             "companyName": "CyberCoders"
         },
         "jobTitle": "Database engineer, Hadoop, Incredible company with amazing perks",
-        "location": [
-            -71.390898,
-            42.308086
-        ],
+        "location": "Monterey",
         "skills": [
             "hadoop"
         ],
@@ -2835,10 +2397,7 @@ export const JOBS = [
             "companyName": "Hortonworks"
         },
         "jobTitle": "MTS - Hadoop Distributed File System",
-        "location": [
-            -122.031936,
-            37.390284
-        ],
+        "location": "Orlando",
         "skills": [
             "hadoop"
         ],
@@ -2854,10 +2413,7 @@ export const JOBS = [
             "companyName": "Nokia"
         },
         "jobTitle": "Senior Software Engineer Java / Scala",
-        "location": [
-            13.32451,
-            52.486382
-        ],
+        "location": "Billings",
         "skills": [
             "scala"
         ],
@@ -2873,10 +2429,7 @@ export const JOBS = [
             "companyName": "E.ON"
         },
         "jobTitle": "Werkstudent (m/w) Programmierung",
-        "location": [
-            7.034174,
-            51.444171
-        ],
+        "location": "Baltimore",
         "skills": [
             "scala"
         ],
@@ -2892,10 +2445,7 @@ export const JOBS = [
             "companyName": "Google"
         },
         "jobTitle": "Systems Engineer, Google.com",
-        "location": [
-            77.660315,
-            12.993539
-        ],
+        "location": "St. Paul",
         "skills": [
             "scala"
         ],
@@ -2911,10 +2461,7 @@ export const JOBS = [
             "companyName": "Clogeny"
         },
         "jobTitle": "Software Engineer (Senior and Junior) - Ruby on Rails",
-        "location": [
-            73.73635589999999,
-            18.5914534
-        ],
+        "location": "Westminster",
         "skills": [
             "ruby",
             "mongodb"
@@ -2931,10 +2478,7 @@ export const JOBS = [
             "companyName": "Pramati Technologies"
         },
         "jobTitle": "Principal Engineer",
-        "location": [
-            78.456449,
-            17.435803
-        ],
+        "location": "Alexandria",
         "skills": [
             "ruby"
         ],
@@ -2950,10 +2494,7 @@ export const JOBS = [
             "companyName": "Amura Marketing Technologies Pvt.Ltd"
         },
         "jobTitle": "Ruby on Rails Developer",
-        "location": [
-            73.833435,
-            18.515845
-        ],
+        "location": "Memphis",
         "skills": [
             "ruby",
             "mongodb"
@@ -2970,10 +2511,7 @@ export const JOBS = [
             "companyName": "Clogeny"
         },
         "jobTitle": "Software Engineer (Senior and Junior) - Ruby on Rails",
-        "location": [
-            73.73635589999999,
-            18.5914534
-        ],
+        "location": "Billings",
         "skills": [
             "ruby",
             "mongodb"
@@ -2990,10 +2528,7 @@ export const JOBS = [
             "companyName": "Pramati Technologies"
         },
         "jobTitle": "Principal Engineer",
-        "location": [
-            78.456449,
-            17.435803
-        ],
+        "location": "Greensboro",
         "skills": [
             "ruby"
         ],
@@ -3009,10 +2544,7 @@ export const JOBS = [
             "companyName": "Amura Marketing Technologies Pvt.Ltd"
         },
         "jobTitle": "Ruby on Rails Developer",
-        "location": [
-            73.833435,
-            18.515845
-        ],
+        "location": "Fort Wayne",
         "skills": [
             "ruby",
             "mongodb"
@@ -3029,10 +2561,7 @@ export const JOBS = [
             "companyName": "ABC1 Demo Pvt.Ltd"
         },
         "jobTitle": "Software Engineer with PDM Experience",
-        "location": [
-            79.86124300000006,
-            6.9270786
-        ],
+        "location": "Chandler",
         "skills": [
             "ruby",
             "java",
@@ -3050,10 +2579,7 @@ export const JOBS = [
             "companyName": "ABC2 Demo Pvt.Ltd"
         },
         "jobTitle": "PHP Programmers",
-        "location": [
-            79.89967890000003,
-            6.9072435
-        ],
+        "location": "Bradenton",
         "skills": [
             "php",
             "mongodb"
@@ -3070,10 +2596,7 @@ export const JOBS = [
             "companyName": "ABC3 Demo Pvt.Ltd"
         },
         "jobTitle": "Ruby on Rails developer",
-        "location": [
-            79.85377689999996,
-            6.905146100000001
-        ],
+        "location": "Richmond",
         "skills": [
             "ruby",
             "rails",

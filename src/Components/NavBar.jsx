@@ -17,7 +17,7 @@ const NavBar = () => {
                         <li className="nav-item"><a className="nav-link" href="#home-intro">About Us</a></li>
                         <li className="nav-item"><a className="nav-link" href="#">Work With Us</a></li>
                         <li className="nav-item"><a className="nav-link" href="#contact">Contact Us</a></li>
-                        <li className="nav-item"><a className="nav-link" href="#">Submit a CV</a></li>
+                        <li className="nav-item"><a className="nav-link" href="#" data-bs-toggle="modal" data-bs-target="#portfolioModal2" >Submit a CV</a></li>
                     </ul>
                 </div>
             </div>

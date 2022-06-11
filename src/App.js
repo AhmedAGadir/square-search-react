@@ -18,16 +18,16 @@ import Regions from './Components/Regions';
 function App() {
 
 
-  const inputRef = useRef(null);
+  const underConstructionRef = useRef(null);
 
   React.useEffect(() => {
-      // inputRef.current.click();
+      // underConstructionRef.current.click();
   }, []);
 
   return (
     <div>
-       <button ref= {inputRef} type="button" className="btn btn-primary" data-bs-toggle="modal" data-bs-target="#portfolioModal1" style={{display: 'none'}}>
-        Launch modal
+       <button ref= {underConstructionRef} type="button" className="btn btn-primary" data-bs-toggle="modal" data-bs-target="#under-construction-modal" style={{display: 'none'}}>
+        Under Construction Button
       </button>
       <NavBar />
       <Header />
