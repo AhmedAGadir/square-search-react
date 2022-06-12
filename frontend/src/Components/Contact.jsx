@@ -26,10 +26,10 @@ const Contact = () => {
     fetch('/send', {
       method: 'post',
       body: mail,
-    }).then((response) => {
-      console.log('response', response.json());
-      return response.json();
-    });
+    })
+      .then((response) => response.json())
+      .then((result) => console.log(result))
+      .error((err) => console.log(err));
   };
 
   return (
