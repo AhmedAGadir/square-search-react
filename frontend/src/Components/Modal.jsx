@@ -48,6 +48,9 @@ const SubmitCVModal = () => (
           <h3 className="text-uppercase">
             Upload A <span className="text-info">CV</span>
           </h3>
+          <p className="text-muted">
+            <em>Send us a copy of your Curriculum Vitae.</em>
+          </p>
           <div className="modal-body">
             <Dropzone />
           </div>

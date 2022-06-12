@@ -36,7 +36,7 @@ const nodemailer = require("nodemailer");
 const multiparty = require("multiparty");
 
 const transporter = nodemailer.createTransport({
-    host: 'smtp.gmail.com',
+    host: `smtp.gmail.com`,
     port: 587,
     auth: {
     //   https://stackoverflow.com/questions/45478293/username-and-password-not-accepted-when-using-nodemailer
