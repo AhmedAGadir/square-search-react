@@ -28,3 +28,15 @@ responsiveness everywhere
 backend? login? 
 
 favourite jobs - local storage or database?
+
+
+
+video - later
+
+and infographic - submit a CV - coffee table, etc.
+
+our consultants - maybe
+
+what our clients say square1 - saved in my documents
+
+fix textarea
