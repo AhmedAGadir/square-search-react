@@ -138,7 +138,7 @@ const SearchBar = () => {
           onKeyDown={handleKeyDown}
         />
         <button
-          className="btn btn-primary btn-lg"
+          className="btn btn-primary btn-lg px-4"
           id="submitButton"
           type="submit"
         >

@@ -1,5 +1,3 @@
-// https://lo-victoria.com/how-to-build-a-contact-form-with-javascript-and-nodemailer
-
 import React from 'react';
 
 const Contact = () => {
@@ -8,8 +6,6 @@ const Contact = () => {
   const handleChange = (e) => {
     updateFormData({
       ...formData,
-
-      // Trimming any whitespace
       [e.target.name]: e.target.value.trim(),
     });
   };
@@ -23,13 +19,17 @@ const Contact = () => {
       mail.append(name, value);
     }
 
+    sendMail(mail);
+  };
+
+  const sendMail = (mail) => {
     fetch('/send', {
       method: 'post',
       body: mail,
     })
       .then((response) => response.json())
-      .then((result) => console.log(result))
-      .error((err) => console.log(err));
+      .then((response) => console.log(response))
+      .catch((err) => console.log('err', err));
   };
 
   return (

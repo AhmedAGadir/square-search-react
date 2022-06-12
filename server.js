@@ -31,12 +31,15 @@ const port = process.env.PORT || 5000;
 
 // app.use("/public", express.static(process.cwd() + "/public")); //make public static
 
+// https://lo-victoria.com/how-to-build-a-contact-form-with-javascript-and-nodemailer
 const nodemailer = require("nodemailer");
+const multiparty = require("multiparty");
 
 const transporter = nodemailer.createTransport({
     host: 'smtp.gmail.com',
     port: 587,
     auth: {
+    //   https://stackoverflow.com/questions/45478293/username-and-password-not-accepted-when-using-nodemailer
       user: process.env.EMAIL,
       pass: process.env.PASS,
     },
@@ -68,9 +71,10 @@ const transporter = nodemailer.createTransport({
       transporter.sendMail(mail, (err, data) => {
         if (err) {
           console.log(err);
-          res.status(500).send("Something went wrong.");
+          res.status(500).json("Something went wrong.");
         } else {
-          res.status(200).send("Email successfully sent to recipient!");
+            console.log('succes - sending message')
+          res.status(200).json("Email successfully sent to recipient!");
         }
       });
     });
