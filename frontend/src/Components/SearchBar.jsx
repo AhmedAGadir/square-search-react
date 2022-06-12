@@ -1,4 +1,4 @@
-import React, { useState, useMemo, useRef } from 'react';
+import React, { useEffect, useState, useMemo, useRef } from 'react';
 import useSearch from '../utils/useSearch';
 import { JOBS } from '../jobs';
 import classNames from 'classnames';
@@ -26,8 +26,6 @@ const SearchBar = () => {
   const attributes = useMemo(() => ['jobTitle', 'location', 'term'], []);
 
   const [searchResults, search, setSearch] = useSearch(JOBS, attributes);
-  const [searchFocused, setSearchFocused] = useState(false);
-
   const searchResultsRef = useRef();
 
   const [active, setActive] = useState(null);
@@ -105,6 +103,24 @@ const SearchBar = () => {
     setActive(i);
   };
 
+  const searchContainerRef = useRef();
+  const [showSearchResults, setShowSearchResults] = useState(true);
+
+  useEffect(() => {
+    const onClick = (event) => {
+      const showSearchResults =
+        searchContainerRef.current &&
+        searchContainerRef.current.contains(event.target);
+      setShowSearchResults(showSearchResults);
+    };
+
+    window.addEventListener('click', onClick);
+
+    return () => {
+      window.removeEventListener('click', onClick);
+    };
+  }, []);
+
   const openJob = (job) => {
     alert(`open job page for ${JSON.stringify(job)}`);
   };
@@ -124,8 +140,7 @@ const SearchBar = () => {
       className={classNames('search-container', {
         searching: search && searchResults.length > 0,
       })}
-      //   onFocus={() => setSearchFocused(true)}
-      //   onBlur={() => setSearchFocused(false)}
+      ref={searchContainerRef}
     >
       <form onSubmit={onSubmit}>
         <input
@@ -145,7 +160,7 @@ const SearchBar = () => {
           <i className="bi bi-search"></i>
         </button>
       </form>
-      {search && (
+      {search && showSearchResults && (
         <div className="search-results list-group" ref={searchResultsRef}>
           {searchResults.map((job, i) => (
             <div

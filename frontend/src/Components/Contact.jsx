@@ -1,7 +1,10 @@
 import React from 'react';
+import { useState } from 'react';
 
 const Contact = () => {
-  const [formData, updateFormData] = React.useState({});
+  const [formData, updateFormData] = useState({});
+  const [submitSuccess, setSubmitSuccess] = useState(false);
+  const [submitFail, setSubmitFail] = useState(false);
 
   const handleChange = (e) => {
     updateFormData({
@@ -27,8 +30,15 @@ const Contact = () => {
       method: 'post',
       body: mail,
     })
-      .then((response) => response.json())
-      .then((response) => console.log(response))
+      .then((response) => response.status)
+      .then((status) => {
+        console.log(status);
+        if (status === 200) {
+          setSubmitSuccess(true);
+        } else {
+          setSubmitFail(true);
+        }
+      })
       .catch((err) => console.log('err', err));
   };
 
@@ -41,7 +51,6 @@ const Contact = () => {
             Lorem ipsum dolor sit amet consectetur.
           </h3>
         </div>
-        {/* <!-- https://startbootstrap.com/solution/contact-forms--> */}
         <form
           id="contactForm"
           // data-sb-form-api-token="API_TOKEN"
@@ -133,27 +142,31 @@ const Contact = () => {
             </div>
           </div>
           {/* <!-- Submit success message--> */}
-          <div className="d-none" id="submitSuccessMessage">
+          {submitSuccess && (
             <div className="text-center text-white mb-3">
-              <div className="fw-bolder">Form submission successful!</div>
+              <div className="fw-bolder">
+                Thank you, we'll be in touch soon!
+              </div>
             </div>
-          </div>
+          )}
           {/* <!-- Submit error message--> */}
-          <div className="d-none" id="submitErrorMessage">
+          {submitFail && (
             <div className="text-center text-danger mb-3">
               Error sending message!
             </div>
-          </div>
+          )}
           {/* <!-- Submit Button--> */}
-          <div className="text-center">
-            <button
-              className="btn btn-primary btn-xl text-uppercase"
-              id="submitButton"
-              type="submit"
-            >
-              Send Message
-            </button>
-          </div>
+          {!submitSuccess && (
+            <div className="text-center">
+              <button
+                className="btn btn-primary btn-xl text-uppercase"
+                id="submitButton"
+                type="submit"
+              >
+                Send Message
+              </button>
+            </div>
+          )}
         </form>
       </div>
     </section>

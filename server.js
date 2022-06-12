@@ -73,7 +73,6 @@ const transporter = nodemailer.createTransport({
           console.log(err);
           res.status(500).json("Something went wrong.");
         } else {
-            console.log('succes - sending message')
           res.status(200).json("Email successfully sent to recipient!");
         }
       });

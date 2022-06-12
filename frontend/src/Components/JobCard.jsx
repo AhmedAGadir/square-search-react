@@ -1,9 +1,9 @@
 import React from 'react';
 import './JobCard.scss';
 
-const JobCard = ({ title, description, location, term }) => {
+const JobCard = ({ title, description, location, term, className }) => {
   return (
-    <div className="jobcard card mx-3">
+    <div className={`jobcard card ${className}`}>
       <div className="title-container d-flex bg-info align-items-center justify-content-center text-center">
         <h5 className="title">{title}</h5>
       </div>
